@@ -32,7 +32,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Portfólio é um site com intuito de mostrar um pouco sobre mim, e alguns projetos.
 
-- [Acesse o projeto finalizado, online](https://maykbrito.github.io/devlinks)
+- [Acesse o projeto finalizado, online](#)
 
 ## :memo: Licença
 
