@@ -4,6 +4,7 @@
     --cor-primaria: #2B2D42;
     --cor-secundaria: #fff;
     --cor-terciaria: #8D99AE;
+    --cor-quaternaria: #FDFFFC;
     --cor-hover: #62B6CB;
 
     --fonte-primaria: 'Inter', sans-serif;
@@ -36,7 +37,7 @@ body {
     font-size: 1.5rem;
     font-weight: 600;
 
-    color: var(--cor-terciaria);
+    color: var(--cor-quaternaria);
 
     text-decoration: none;
 }
